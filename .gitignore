@@ -48,3 +48,5 @@ po/*~
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
+
+.DS_Store
