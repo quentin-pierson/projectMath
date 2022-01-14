@@ -1,7 +1,7 @@
 # projectMath
 
 
-The project is a mathematical project on Optimization and PCA
+Mathematical project on Optimization and PCA
 
 
 ## Language used 
