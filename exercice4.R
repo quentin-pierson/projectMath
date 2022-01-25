@@ -45,7 +45,7 @@ ecart_type
 esperance
 
 #Verification
-#doit etre egale environ à 0.9
-pnorm(m1, sd=ecart_type, mean=esperance, lower.tail = TRUE)
+#doit etre egale environ à 0.1
+pnorm(m1, sd=ecart_type, mean=esperance, lower.tail = FALSE)
 #doit etre egale environ à 0.25
 pnorm(m2, sd=ecart_type, mean=esperance, lower.tail = TRUE)
